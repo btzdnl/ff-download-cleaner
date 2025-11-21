@@ -2,7 +2,7 @@
 
 This project is no longer maintained. Mozilla has discontinued support for everything but Web Extensions, making this add-on incompatible with current and future versions of Firefox. I have no interest in Firefox forks, so I’m officially retiring this project. You can still fork the repository to continue development yourself!
 
-I have developed a successor using Web Extensions. The project is located [here](https://github.com/fuzzykiller/download-cleaner-lite).
+I have developed a successor using Web Extensions. The project is located [here](https://github.com/btzdnl/download-cleaner-lite).
 
 Thanks for using this extension! 😄
 
